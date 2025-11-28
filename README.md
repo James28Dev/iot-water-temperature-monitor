@@ -131,3 +131,10 @@ void loop() {
   
   delay(1000); // อ่านค่าทุก 1 วินาที
 }
+```
+
+---
+
+## ⚖️ ใบอนุญาต (License)
+
+โปรเจกต์นี้เผยแพร่ภายใต้ **MIT License** ดูรายละเอียดเพิ่มเติมในไฟล์ [LICENSE](https://github.com/James28Dev/Smart-Water-Temperature-Meter/blob/main/LICENSE)
