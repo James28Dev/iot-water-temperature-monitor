@@ -1,4 +1,4 @@
-# 🌡️ Smart Water Temperature Meter (เครื่องวัดอุณหภูมิของน้ำอัจฉริยะ)
+# 🌡️ เครื่องวัดอุณหภูมิของน้ำอัจฉริยะ (Smart Water Temperature Meter)
 
 [![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/james28dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/James28Dev/Smart-Water-Temperature-Meter/blob/main/LICENSE)
